@@ -16,7 +16,7 @@ import com.dev.deliver.entities.Product;
 import com.dev.deliver.repositories.OrderRepository;
 import com.dev.deliver.repositories.ProductRepository;
 
-@Service
+@Service 
 public class OrderService {
 	
 	@Autowired
